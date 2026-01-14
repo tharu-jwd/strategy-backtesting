@@ -1,6 +1,6 @@
 # Strategy Backtester
 
-A simple, lightweight backtesting engine for testing trading strategies on historical market data. Designed to work with data from the [stock-data-pipeline](../stock-data-pipeline) project through a shared PostgreSQL database.
+A simple, lightweight backtesting engine for testing trading strategies on historical market data. Designed to work with data from the [stock-data-pipeline](https://github.com/tharu-jwd/stock-data-pipeline) project through a shared PostgreSQL database.
 
 ## Overview
 
@@ -403,5 +403,5 @@ MIT License
 
 ## Related Projects
 
-- [stock-data-pipeline](../stock-data-pipeline) - Data pipeline for market data collection
+- [stock-data-pipeline](https://github.com/tharu-jwd/stock-data-pipeline) - Data pipeline for market data collection
 
